@@ -1,0 +1,45 @@
+input#social_text {
+    width:520px;
+}
+
+a#social-more {
+    text-decoration:none;
+}
+
+div#post-select-items {
+    border: 1px solid #DEDEDE;
+    height: 290px;
+    margin-top: 15px;
+    overflow-y: auto;
+    width: 35%;
+}
+
+div.posts-select-item {
+    border-bottom: 1px solid #DFDFDF;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+div.posts-select-item:hover, div.posts-select-item:focus, div.posts-select-item:active{
+    background: none repeat scroll 0 0 #F5FFFA;
+    cursor:pointer;
+}
+
+a.posts-selected {
+    text-decoration:none;
+}
+
+select#social_type, select#social_layout {
+    width: 160px;
+}
+
+tr.output th, tr.output td {
+    border-top:1px solid #dedede;
+}
+
+.fb-social-warning {
+    background: rgb(255, 192, 203) none repeat scroll 0 0;
+    padding: 10px;
+    width: 94%;
+}

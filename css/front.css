@@ -1,0 +1,40 @@
+a.addthis_button_facebook_like{
+    background: url("../images/fbshare.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    padding: 5px 23px 0 27px;
+}
+
+a.facebook_share{
+    background: url("../images/shshare.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    padding: 5px 23px 0 27px;
+}
+
+span#u_0_3{
+    display:none;
+}
+
+div.fb-like{
+    bottom: 10px;
+    position: absolute;
+    right: 11px;
+}
+
+div.fb-like + p{
+    display: none;
+}
+
+div.border-fb-wrapper{
+    border-top: 1px solid #DEDEDE;
+    height: 40px;
+    margin-top: 10px;
+    position: relative;
+}
+
+div#header div.wrap{
+    position:relative;
+}
+
+div#header div.wrap div#text-7{
+    left: 135px;
+    position: absolute;
+    top: 105px;
+}
